@@ -18,7 +18,6 @@ public class Libreta {
         this.listaEcuaciones.add(e);
     }
 
-
     public void mostrarEcuaciones() {
         for (Ecuacion e : listaEcuaciones) {
             System.out.println("---------------------------------");
